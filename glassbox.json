@@ -1,0 +1,95 @@
+{
+  "slug": "penclear",
+  "box": 2,
+  "date": "2026-09-25",
+  "title": "PenClear",
+  "question": "How does a pen work?",
+  "hook": "A tiny rolling ball, a slit thinner than a hair, and ink that climbs by itself. Take apart ballpoints and fountain pens in 3D.",
+  "thumbText": "HOW A PEN WORKS",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "pen",
+    "ballpoint",
+    "fountain pen",
+    "ink",
+    "capillary action",
+    "writing",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A ballpoint is a ball in a socket",
+      "text": "At the tip sits a tiny steel or tungsten-carbide ball, 0.5 to 1 mm across, held by a brass socket so it can spin but not fall out. Behind it is a tube of thick, oily ink."
+    },
+    {
+      "title": "Rolling carries the ink",
+      "text": "Drag the pen and friction with the paper makes the ball roll. Its top is coated in ink inside the pen, and as it turns that ink is laid down on the page. Thick ink makes only a thin film, so it rarely smudges."
+    },
+    {
+      "title": "Gravity and air keep it flowing",
+      "text": "Ordinary ballpoints need gravity to keep ink against the ball, and a tiny air hole so air can replace the ink that's used. Point one at the ceiling and it runs dry. Pressurized 'space pen' refills push ink out with gas instead."
+    },
+    {
+      "title": "Fountain pens use a split nib",
+      "text": "A fountain pen has no ball. Its nib is split into two tines, and the slit between them is narrow enough to draw ink along it by capillary action. Press harder and the tines spread, making a wider line."
+    },
+    {
+      "title": "Ink out, air in",
+      "text": "The black feed under the nib sends ink down one channel while air bubbles back up another into the reservoir. That swap stops a vacuum forming, and the feed's fins hold spare ink so the pen doesn't flood."
+    },
+    {
+      "title": "Capillary action does the lifting",
+      "text": "Liquids that cling to a surface climb narrow gaps by themselves. Halve the gap and they climb twice as high. The same force pulls ink through a nib, into paper fibres and up a felt-tip's wick."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Tungsten carbide",
+      "def": "A very hard material used for most ballpoint balls because it barely wears down."
+    },
+    {
+      "term": "Viscosity",
+      "def": "How thick a liquid is. Ballpoint ink is about as thick as honey; fountain pen ink is nearly as thin as water."
+    },
+    {
+      "term": "Capillary action",
+      "def": "A liquid rising in a narrow gap because it clings to the walls more than to itself."
+    },
+    {
+      "term": "Surface tension",
+      "def": "The pull between molecules at a liquid's surface that makes it behave like a stretched skin."
+    },
+    {
+      "term": "Nib",
+      "def": "The metal point of a fountain pen, split into two tines by a thin slit."
+    },
+    {
+      "term": "Feed",
+      "def": "The part under a fountain pen's nib that sends ink out and lets air in."
+    },
+    {
+      "term": "Cam",
+      "def": "A shaped part that turns a push into a rotation, like the one inside a click pen."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "penclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
